@@ -9,6 +9,9 @@
 		<li><a href="stranica.php">pocetna</a></li>
 		<li><a href="stranica2.php">druga</a></li>
 		<li><a href="stranica3.php">treca</a></li>
+		<li><a href="stranica3.php">treca</a></li>
+		<li><a href="stranica3.php">treca</a></li>
+		
 	</ul>
 	
 </body>
